@@ -1,0 +1,3 @@
+#define MAX_PATH_LENGTH     1024
+#define MAX_FILENAME_LENGTH 256
+#define TARGET_EXTENSION    ".test"
